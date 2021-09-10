@@ -198,6 +198,11 @@ body {
     margin-bottom: 56px;
   }
 
+.portfolio .container p {
+   margin-left: 720px;
+   margin-bottom: 56px;
+}
+
 .intro h3,
 .portfolio h3 {
   margin: 0 0 16px;
@@ -283,8 +288,6 @@ body {
 
 .project-image {
   position: absolute;
-  top: 0;
-  left: 0;
   margin: 0;
 }
 
@@ -296,6 +299,11 @@ body {
 
 .projects p {
   margin: 0 0 32px;
+}
+
+.portfolio .button {
+    margin-left: 720px;
+    margin-bottom: 56px;
 }
 
 .button {
