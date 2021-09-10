@@ -193,9 +193,15 @@ body {
   margin-bottom: 56px;
 }
 
+.intro .container p {
+    margin-left: 720px;
+    margin-bottom: 56px;
+  }
+
 .intro h3,
 .portfolio h3 {
   margin: 0 0 16px;
+  margin-left: 720px;
   font-size: 32px;
   line-height: 40px;
   font-weight: 500;
@@ -212,6 +218,7 @@ body {
 
 .skills h3 {
   margin-bottom: 40px;
+  margin-left: 0px;
 }
 
 .skills-list {
