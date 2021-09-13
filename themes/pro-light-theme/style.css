@@ -13,9 +13,9 @@ body {
 }
 
 .container {
-  max-width: 1408px;
+  max-width: 1200px;
   margin: 0 auto;
-  padding: 0 16px;
+  padding: 0 36px;
 }
 
 .page-header {
@@ -87,8 +87,7 @@ body {
 }
 
 .intro {
-  margin: 0 0 160px;
-  padding-top: 240px;
+  padding-top: 70px;
   padding-bottom: 80px;
   background-color: #fafbfd;
 }
@@ -106,10 +105,6 @@ body {
 }
 
 .intro .subheading {
-  position: absolute;
-  top: -320px;
-  left: 48px;
-  font-size: 16px;
   line-height: 32px;
   color: #222222;
 }
@@ -127,9 +122,7 @@ body {
 
 .user-image {
   margin: 0 0 32px;
-  position: absolute;
-  top: 0;
-  left: 0;
+
 }
 
 .user-image img {
@@ -144,7 +137,6 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin: 0 120px 160px;
   min-height: 400px;
 }
 
@@ -177,7 +169,6 @@ body {
 
 .intro h3,
 .portfolio h3 {
-  margin: 0 0 16px;
   width: 688px;
   font-size: 32px;
   line-height: 40px;
@@ -342,10 +333,6 @@ body {
 
 .project-image {
   z-index: 1;
-  position: absolute;
-  margin: 0;
-  top: 0;
-  left: 0;
 }
 
 .project-image img {
